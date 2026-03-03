@@ -3,6 +3,7 @@
   "package": "nofrills.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": [
+    "BlockItemMixin",
     "BossBarHudAccessor",
     "BossBarHudMixin",
     "CameraMixin",
@@ -16,6 +17,7 @@
     "DataTrackerMixin",
     "DrawContextMixin",
     "EndermanEntityMixin",
+    "EntityAttributeInstanceMixin",
     "EntityMixin",
     "EntityRendererMixin",
     "FogRendererMixin",
@@ -35,6 +37,7 @@
     "MinecraftClientMixin",
     "MouseMixin",
     "PaneBlockMixin",
+    "PlayerLikeEntityMixin",
     "PlayerListHudAccessor",
     "SoundSystemMixin",
     "StatusEffectsDisplayMixin",
